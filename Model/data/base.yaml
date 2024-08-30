@@ -1,0 +1,14 @@
+path: ../datasets/TACO.dataset.v15i.yolov8
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['trash']
+
+roboflow:
+  workspace: taco-t7kkz
+  project: taco-dataset-ql1ng
+  version: 15
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/taco-t7kkz/taco-dataset-ql1ng/dataset/15

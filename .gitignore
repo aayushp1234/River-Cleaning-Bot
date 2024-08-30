@@ -1,0 +1,13 @@
+# In Model directory
+Model/.venv
+Model/best_model/*
+!Model/best_model/best.*
+!Model/best_model/best_saved_model
+Model/best_model/best_saved_model/*
+!Model/best_model/best_saved_model/best_*
+Model/runs
+Model/datasets/*
+Model/testing/RealVids
+Model/testing/Video_Sequences*
+Model/testing/sample.mp4
+Model/yolov8n.pt

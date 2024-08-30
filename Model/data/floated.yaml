@@ -1,0 +1,6 @@
+path: ../datasets/FloW_IMG
+train: training/images
+val: test/images
+
+nc: 1
+names: ['trash']
